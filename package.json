@@ -36,7 +36,7 @@
   "_spec": "/private/var/folders/4b/nmrdzbrj1_l19_ktw0v95jw40000gq/T/d-117107-22653-6wbau3.1tx5yiudi/package.tgz",
   "_where": "/private/var/folders/4b/nmrdzbrj1_l19_ktw0v95jw40000gq/T/apm-install-dir-117107-22653-1d3w1xm.m3ueib2o6r",
   "bugs": {
-    "url": "https://github.com/duien/aqua-≤-syntax/issues"
+    "url": "https://github.com/mina-moto/aqua-≤-syntax/issues"
   },
   "dependencies": {},
   "description": "beautiful.",
@@ -44,7 +44,7 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "homepage": "https://github.com/duien/aqua-marine-syntax#readme",
+  "homepage": "https://github.com/mina-moto/aqua-marine-syntax#readme",
   "keywords": [
     "syntax",
     "theme",
@@ -58,7 +58,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duien/aqua-marine-syntax.git"
+    "url": "git+https://github.com/mina-moto/aqua-marine-syntax.git"
   },
   "theme": "syntax",
   "version": "0.0.0"
