@@ -61,5 +61,5 @@
     "url": "git+https://github.com/mina-moto/aqua-marine-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
