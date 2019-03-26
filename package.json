@@ -58,7 +58,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mina-moto/aqua-marine-syntax.git"
+    "url": "https://github.com/mina-moto/aqua-marine-syntax.git"
   },
   "theme": "syntax",
   "version": "0.0.1"
