@@ -36,10 +36,10 @@
   "_spec": "/private/var/folders/4b/nmrdzbrj1_l19_ktw0v95jw40000gq/T/d-117107-22653-6wbau3.1tx5yiudi/package.tgz",
   "_where": "/private/var/folders/4b/nmrdzbrj1_l19_ktw0v95jw40000gq/T/apm-install-dir-117107-22653-1d3w1xm.m3ueib2o6r",
   "bugs": {
-    "url": "https://github.com/duien/aqua-marine-syntax/issues"
+    "url": "https://github.com/duien/aqua-≤-syntax/issues"
   },
   "dependencies": {},
-  "description": "A bright syntax theme, with plenty of pink and purple.",
+  "description": "beautiful.",
   "devDependencies": {},
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
